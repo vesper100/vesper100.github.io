@@ -44,7 +44,10 @@ var aboutContent = [
 		"title": "Experience:",
 		
 		"group": [
-		
+		{
+				"title": "Blinkink Studios (Sep 2024)",
+				"text": "- Produced 2d character animation in Adobe Animate for a live brief for Adult Swim."
+			},
 			{
 				"title": "Karrot Animation Studios (Apr 2024)",
 				"text": "- Produced 2d rigged character and prop animation in CelAction for a simulated brief using assets from Karrot's Sarah & Duck."
